@@ -20,7 +20,8 @@ In this challenge, I've applied everything I've learned so far from HTML and CSS
 
 ## Submission
 
-GitHub Repo URL: https://github.com/alisradwan/Professional-Portfolio
+- GitHub Repo URL: https://github.com/alisradwan/Professional-Portfolio
+- Deplyed URL: https://alisradwan.github.io/Professional-Portfolio/
 
 ## screenshot of the app
 
