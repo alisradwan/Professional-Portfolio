@@ -342,7 +342,7 @@ header nav ul li a {
   .title {
     font-size: 8px;
   }
-
+  /* on tablets, set columns to only be 50% of the width and not grow */
   p {
     font-size: 13px;
     justify-content: ceter;
