@@ -25,4 +25,4 @@ In this challenge, I've applied everything I've learned so far from HTML and CSS
 
 ## screenshot of the app
 
-![Screenshot of the Professional-Portfolio](./Assets/images/Ali%20Radwan%20portfolio.gif)
+![Screenshot of the Professional-Portfolio](./Assets/images/Ali%20Radwan%20portfolio%20copy.gif)
