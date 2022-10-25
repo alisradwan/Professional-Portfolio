@@ -243,18 +243,24 @@ header nav ul li a {
   border: solid 5px var(--border);
 }
 
-.item-1 {
+.item-3 {
   grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column-end: 4;
   grid-row-start: 2;
-  grid-row-end: 4;
+  grid-row-end: 5;
   position: relative;
 }
 
 .item-2 {
-  grid-column-start: 3;
-  grid-column-end: 4;
+  grid-column-start: 4;
+  grid-column-end: 25;
   grid-row-start: 2;
+  grid-row-end: 3;
+}
+.item-1 {
+  grid-column-start: 25;
+  grid-column-end: 4;
+  grid-row-start: 5;
   grid-row-end: 3;
 }
 
